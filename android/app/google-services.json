@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576678750420",
+    "firebase_url": "https://first-d3bb6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "first-d3bb6",
+    "storage_bucket": "first-d3bb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576678750420:android:8efa3691bf2d8ef679b341",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576678750420-g8omii9qe3qbcn9fbucgcr02p0f5hgqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALqXGI9g7EqK3O229zrkk3HzwaF7wP-Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576678750420-g8omii9qe3qbcn9fbucgcr02p0f5hgqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
